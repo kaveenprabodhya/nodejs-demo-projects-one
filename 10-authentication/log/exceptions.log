@@ -1,0 +1,112 @@
+2021-08-26T13:04:20.768Z [31merror[39m: [31muncaughtException: Cannot find module '../models/logger'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\Kaveen Thivanka\Desktop\NodeJs\10-authentication\middleware\error.js[39m
+[31m- C:\Users\Kaveen Thivanka\Desktop\NodeJs\10-authentication\startup\routes.js[39m
+[31m- C:\Users\Kaveen Thivanka\Desktop\NodeJs\10-authentication\index.js[39m
+[31mError: Cannot find module '../models/logger'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\Kaveen Thivanka\Desktop\NodeJs\10-authentication\middleware\error.js[39m
+[31m- C:\Users\Kaveen Thivanka\Desktop\NodeJs\10-authentication\startup\routes.js[39m
+[31m- C:\Users\Kaveen Thivanka\Desktop\NodeJs\10-authentication\index.js[39m
+[31m    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)[39m
+[31m    at Function.Module._load (internal/modules/cjs/loader.js:745:27)[39m
+[31m    at Module.require (internal/modules/cjs/loader.js:961:19)[39m
+[31m    at require (internal/modules/cjs/helpers.js:92:18)[39m
+[31m    at Object.<anonymous> (C:\Users\Kaveen Thivanka\Desktop\NodeJs\10-authentication\middleware\error.js:1:16)[39m
+[31m    at Module._compile (internal/modules/cjs/loader.js:1072:14)[39m
+[31m    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)[39m
+[31m    at Module.load (internal/modules/cjs/loader.js:937:32)[39m
+[31m    at Function.Module._load (internal/modules/cjs/loader.js:778:12)[39m
+[31m    at Module.require (internal/modules/cjs/loader.js:961:19)[39m
+[31m    at require (internal/modules/cjs/helpers.js:92:18)[39m
+[31m    at Object.<anonymous> (C:\Users\Kaveen Thivanka\Desktop\NodeJs\10-authentication\startup\routes.js:8:15)[39m
+[31m    at Module._compile (internal/modules/cjs/loader.js:1072:14)[39m
+[31m    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)[39m
+[31m    at Module.load (internal/modules/cjs/loader.js:937:32)[39m
+[31m    at Function.Module._load (internal/modules/cjs/loader.js:778:12)[39m
+[31m    at Module.require (internal/modules/cjs/loader.js:961:19)[39m
+[31m    at require (internal/modules/cjs/helpers.js:92:18)[39m
+[31m    at Object.<anonymous> (C:\Users\Kaveen Thivanka\Desktop\NodeJs\10-authentication\index.js:5:1)[39m
+[31m    at Module._compile (internal/modules/cjs/loader.js:1072:14)[39m
+[31m    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)[39m
+[31m    at Module.load (internal/modules/cjs/loader.js:937:32)[39m
+2021-08-26T13:14:55.292Z [31merror[39m: [31muncaughtException: FATAL ERROR: jwtPrivateKey is not defiend.[39m
+[31mError: FATAL ERROR: jwtPrivateKey is not defiend.[39m
+[31m    at module.exports (C:\Users\Kaveen Thivanka\Desktop\NodeJs\10-authentication\startup\config.js:7:11)[39m
+[31m    at Object.<anonymous> (C:\Users\Kaveen Thivanka\Desktop\NodeJs\10-authentication\index.js:7:28)[39m
+[31m    at Module._compile (internal/modules/cjs/loader.js:1072:14)[39m
+[31m    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)[39m
+[31m    at Module.load (internal/modules/cjs/loader.js:937:32)[39m
+[31m    at Function.Module._load (internal/modules/cjs/loader.js:778:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)[39m
+[31m    at internal/main/run_main_module.js:17:47[39m
+2021-08-26T13:25:23.293Z [31merror[39m: [31muncaughtException: FATAL ERROR: jwtPrivateKey is not defiend.[39m
+[31mError: FATAL ERROR: jwtPrivateKey is not defiend.[39m
+[31m    at module.exports (C:\Users\Kaveen Thivanka\Desktop\NodeJs\10-authentication\startup\config.js:7:11)[39m
+[31m    at Object.<anonymous> (C:\Users\Kaveen Thivanka\Desktop\NodeJs\10-authentication\index.js:7:28)[39m
+[31m    at Module._compile (internal/modules/cjs/loader.js:1072:14)[39m
+[31m    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)[39m
+[31m    at Module.load (internal/modules/cjs/loader.js:937:32)[39m
+[31m    at Function.Module._load (internal/modules/cjs/loader.js:778:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)[39m
+[31m    at internal/main/run_main_module.js:17:47[39m
+8/26/2021, 1:55:34 PM [31merror[39m: [31muncaughtException: FATAL ERROR: jwtPrivateKey is not defiend.[39m
+[31mError: FATAL ERROR: jwtPrivateKey is not defiend.[39m
+[31m    at module.exports (C:\Users\Kaveen Thivanka\Desktop\NodeJs\10-authentication\startup\config.js:7:11)[39m
+[31m    at Object.<anonymous> (C:\Users\Kaveen Thivanka\Desktop\NodeJs\10-authentication\index.js:7:28)[39m
+[31m    at Module._compile (internal/modules/cjs/loader.js:1072:14)[39m
+[31m    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)[39m
+[31m    at Module.load (internal/modules/cjs/loader.js:937:32)[39m
+[31m    at Function.Module._load (internal/modules/cjs/loader.js:778:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)[39m
+[31m    at internal/main/run_main_module.js:17:47[39m
+8/26/2021, 1:55:52 PM [31merror[39m: [31muncaughtException: FATAL ERROR: jwtPrivateKey is not defiend.[39m
+[31mError: FATAL ERROR: jwtPrivateKey is not defiend.[39m
+[31m    at module.exports (C:\Users\Kaveen Thivanka\Desktop\NodeJs\10-authentication\startup\config.js:7:11)[39m
+[31m    at Object.<anonymous> (C:\Users\Kaveen Thivanka\Desktop\NodeJs\10-authentication\index.js:7:28)[39m
+[31m    at Module._compile (internal/modules/cjs/loader.js:1072:14)[39m
+[31m    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)[39m
+[31m    at Module.load (internal/modules/cjs/loader.js:937:32)[39m
+[31m    at Function.Module._load (internal/modules/cjs/loader.js:778:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)[39m
+[31m    at internal/main/run_main_module.js:17:47[39m
+26/08/2021, 13:56:02 [31merror[39m: [31muncaughtException: FATAL ERROR: jwtPrivateKey is not defiend.[39m
+[31mError: FATAL ERROR: jwtPrivateKey is not defiend.[39m
+[31m    at module.exports (C:\Users\Kaveen Thivanka\Desktop\NodeJs\10-authentication\startup\config.js:7:11)[39m
+[31m    at Object.<anonymous> (C:\Users\Kaveen Thivanka\Desktop\NodeJs\10-authentication\index.js:7:28)[39m
+[31m    at Module._compile (internal/modules/cjs/loader.js:1072:14)[39m
+[31m    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)[39m
+[31m    at Module.load (internal/modules/cjs/loader.js:937:32)[39m
+[31m    at Function.Module._load (internal/modules/cjs/loader.js:778:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)[39m
+[31m    at internal/main/run_main_module.js:17:47[39m
+26/08/2021, 19:29:05 [31merror[39m: [31muncaughtException: FATAL ERROR: jwtPrivateKey is not defiend.[39m
+[31mError: FATAL ERROR: jwtPrivateKey is not defiend.[39m
+[31m    at module.exports (C:\Users\Kaveen Thivanka\Desktop\NodeJs\10-authentication\startup\config.js:7:11)[39m
+[31m    at Object.<anonymous> (C:\Users\Kaveen Thivanka\Desktop\NodeJs\10-authentication\index.js:7:28)[39m
+[31m    at Module._compile (internal/modules/cjs/loader.js:1072:14)[39m
+[31m    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)[39m
+[31m    at Module.load (internal/modules/cjs/loader.js:937:32)[39m
+[31m    at Function.Module._load (internal/modules/cjs/loader.js:778:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)[39m
+[31m    at internal/main/run_main_module.js:17:47[39m
+27/08/2021, 19:11:49 [31merror[39m: [31muncaughtException: FATAL ERROR: jwtPrivateKey is not defiend.[39m
+[31mError: FATAL ERROR: jwtPrivateKey is not defiend.[39m
+[31m    at module.exports (C:\Users\Kaveen Thivanka\Desktop\NodeJs\10-authentication\startup\config.js:7:11)[39m
+[31m    at Object.<anonymous> (C:\Users\Kaveen Thivanka\Desktop\NodeJs\10-authentication\index.js:7:28)[39m
+[31m    at Module._compile (internal/modules/cjs/loader.js:1072:14)[39m
+[31m    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)[39m
+[31m    at Module.load (internal/modules/cjs/loader.js:937:32)[39m
+[31m    at Function.Module._load (internal/modules/cjs/loader.js:778:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)[39m
+[31m    at internal/main/run_main_module.js:17:47[39m
+11/10/2021, 20:07:47 [31merror[39m: [31muncaughtException: FATAL ERROR: jwtPrivateKey is not defiend.[39m
+[31mError: FATAL ERROR: jwtPrivateKey is not defiend.[39m
+[31m    at module.exports (C:\Users\kaveenThivanka\documents\nodejs\10-authentication\startup\config.js:7:11)[39m
+[31m    at Object.<anonymous> (C:\Users\kaveenThivanka\documents\nodejs\10-authentication\index.js:7:28)[39m
+[31m    at Module._compile (internal/modules/cjs/loader.js:1085:14)[39m
+[31m    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)[39m
+[31m    at Module.load (internal/modules/cjs/loader.js:950:32)[39m
+[31m    at Function.Module._load (internal/modules/cjs/loader.js:790:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)[39m
+[31m    at internal/main/run_main_module.js:17:47[39m
